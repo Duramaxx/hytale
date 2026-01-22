@@ -1,0 +1,19 @@
+# NEVER commit worlds or player data
+Server/universe/
+Server/players/
+Server/Licenses/
+Server/HytaleServer.*
+
+# Logs & cache
+*/logs/
+*.log
+
+# OS junk
+*/.DS_Store
+*/Thumbs.db
+
+auth.json
+*.token
+
+HytaleAssets/
+Assets.zip
